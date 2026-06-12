@@ -17,7 +17,7 @@
 
 | Info | Details |
 |---|---|
-| **Source** | Kaggle — [AI Assistant Usage in Student Life (Synthetic)](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life) by Ayesha Saleem |
+| **Source** | Kaggle — [AI Assistant Usage in Student Life (Synthetic)](https://www.kaggle.com/datasets/ayeshasal89/ai-assistant-usage-in-student-life-synthetic/data)) by Ayesha Saleem |
 | **Records** | 10,000 synthetic entries |
 | **Train / Test** | 8,000 / 2,000 |
 | **Target** | `UsedAgain` (0 = Will Not Use Again, 1 = Will Use Again) |
